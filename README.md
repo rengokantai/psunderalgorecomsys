@@ -10,3 +10,10 @@ Algos
 ###4 Setting up the Book Crossing Data Set
 [download](www.bookcrossing.com)
 [data set](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) download CSV Dump [25.475 KB]
+
+
+###6 Computing the Distance Between Users
+```
+from scipy.spatial.distance import hamming
+hamming(user1ratings,user2Ratings)
+```
