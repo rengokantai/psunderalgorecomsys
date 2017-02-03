@@ -9,4 +9,4 @@ Algos
 ##3. Recommending Products Based on the Nearest Neighbors Model
 ###4 Setting up the Book Crossing Data Set
 [download](www.bookcrossing.com)
-
+[data set](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) download CSV Dump [25.475 KB]
