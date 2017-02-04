@@ -17,3 +17,7 @@ Algos
 from scipy.spatial.distance import hamming
 hamming(user1ratings,user2Ratings)
 ```
+
+##5. Mining Data for Rules Underlying User Behavior
+###4 Computing the Support for an Item Set
+[trac](https://wiki.csc.calpoly.edu/datasets/wiki/ExtendedBakery) download 75000, then EB-build-goods.sql,75000-out1.csv
